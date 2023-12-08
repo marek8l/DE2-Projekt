@@ -34,10 +34,13 @@ DODAT SCHÉMA
 
 ## Software description
 
+
+DODAT FLOWCHARTY A LINKY KE KODU
 Put flowchats of your algorithm(s) and direct links to source files in `src` or `lib` folders.
 
 ## Instructions
 
+NAPSAT MANUÁL A UDĚLAT VIDEO
 Write an instruction manual for your application, including photos and a link to a short app video.
 
 ## References
@@ -48,4 +51,5 @@ Write an instruction manual for your application, including photos and a link to
 4. https://stackoverflow.com/
 5. https://store.arduino.cc/products/arduino-uno-rev3
 6. https://pajenicko.cz/graficky-oled-displej-0-dot-96-128x64-i2c-modry
+7. https://www.hadex.cz/m520d-joystick-shield-gamepad-pro-arduino/
    
