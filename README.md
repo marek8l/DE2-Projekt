@@ -15,8 +15,10 @@ Cílem naší práce bylo vytvořit zabávnou arkádovou hru Had. K tomu je zapo
 ### Arduino Uno board
  Pro funkci, celého programu využíváme Arduino Uno board s ATmega328P microcontroler.
 ![alt text](uno.jpg)
-![alt text](microcontroler.jpg)
 Arduino Uno je mikrokontrolérová deska založená na čipu ATmega328P. Má 14 digitálních vstupně/výstupních pinů (z toho 6 lze použít jako výstupy s PWM), 6 analogových vstupů, 16 MHz keramický rezonátor (CSTCE16M0V53-R0), USB připojení, napájecí konektor, ICSP hlavičku a tlačítko pro reset. Obsahuje všechno potřebné pro podporu mikrokontroléru; jednoduše lze připojit k počítači pomocí USB kabelu nebo napájet adaptérem AC-to-DC nebo baterií.
+### Oled Display 128x64
+![alt text](oled.jpg)
+Tento grafický OLED displej s rozlišením 128x64 je vhodný pro různé projekty. OLED displej má nízkou spotřebu, protože u OLED displeje svítí pouze ty body, které jsou aktivovány a nepotřebuje tím pádem podsvětlení. OLED displej obsahuje řídící obvod SSD1306, který komunikuje přes sběrnici I2C a použití s Arduinem/Raspberry/Beaglebone či jinými mikrokontrolery je velmi jednoduché.
 
 
 DODAT SCHÉMA
@@ -36,4 +38,5 @@ Write an instruction manual for your application, including photos and a link to
 3. https://github.com/tomas-fryza/digital-electronics-2/tree/master
 4. https://stackoverflow.com/
 5. https://store.arduino.cc/products/arduino-uno-rev3
+6. https://pajenicko.cz/graficky-oled-displej-0-dot-96-128x64-i2c-modry
    
