@@ -1,6 +1,6 @@
 # DE2- Projekt Snake game
 
-### Team members
+### Členové týmu
 
 * Marek IVAN
 * Petr KAPLAN
