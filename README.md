@@ -22,6 +22,11 @@ Arduino Uno je mikrokontrolérová deska založená na čipu ATmega328P. Má 14 
 ![alt text](oled.jpg)
 <br />
 Tento grafický OLED displej s rozlišením 128x64 je vhodný pro různé projekty. OLED displej má nízkou spotřebu, protože u OLED displeje svítí pouze ty body, které jsou aktivovány a nepotřebuje tím pádem podsvětlení. OLED displej obsahuje řídící obvod SSD1306, který komunikuje přes sběrnici I2C a použití s Arduinem/Raspberry/Beaglebone či jinými mikrokontrolery je velmi jednoduché.
+### Joystick Shield Gamepad
+![alt text](deska.jpg)
+<br />
+Joystick Shield je rozšiřující modul, se kterým lze změnít Arduino v herní konzoli. Tento vstupní modul umožňuje vytvořit z Arduino desky herní ovladač, který slouží pro různé aplikace, Arduino projekty, pohyb v menu a také k plynulému ovládání vašeho robota pomocí joysticku - (v osách X a Y).Tento Arduino Shield obsahuje mnoho vstupních prvků - tlačítka, analogový joystick, přepínač mezi napětím 3,3 a 5 V a několik konektorů pro připojení dalších zařízení. Na Shieldu se nacházejí 4 větší tlačítka, 2 menší tlačítka a poslední tlačítko se nachází v joysticku (aktivace při stisknutí joysticku). Součástí Arduino Shieldu jsou také konektory pro: displej Nokia 5110 a pro připojení bezdrátového modulu nRF24L01. Použití Shieldu je velmi jednoduché - stačí jen nasadit na Arduino UNO, MEGA 2560 nebo další Arduino desky.
+
 
 
 DODAT SCHÉMA
