@@ -10,6 +10,7 @@
 ## Theoretical description and explanation
 
 Enter a description of the problem and how to solve it.
+Cílem naší práce bylo vytvořit zabávnou arkádovou hru Had. K tomu je zapotřebí využití Arduino Uno board, které obsahuje námi napsaný kód, jenž obsahu řešení problémů k úspěšné funkčnosti hada. Dále potřebujeme OLED display 128x64, na kterém se tato minihra vykresluje a nakonec máme sadu čtyř tlačítek, která určuje směr pohybu hada.
 
 ## Hardware description of demo application
 
