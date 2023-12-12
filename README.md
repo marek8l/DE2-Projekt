@@ -35,7 +35,7 @@ Joystick Shield je rozšiřující modul, se kterým lze změnít Arduino v hern
 
 ## Software description
 ### main.c flowchart:
-![alt text](main_c.jpeg)
+![alt text](main_c.jpg)
 
 ## Instructions
 
