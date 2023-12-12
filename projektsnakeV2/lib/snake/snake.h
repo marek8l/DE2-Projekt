@@ -1,4 +1,3 @@
-
 #define SCREEN_WIDTH  128 //definice šírky displeje
 #define SCREEN_HEIGHT 64  //definice výšky displeje
 #define LEFT  3 //definice vstupu pro tlačítko (směr doleva)
@@ -25,10 +24,9 @@ int y_treat; //proměnná y-pozice jídla
 int death; //proměnná kontroly úmrtí
 int score; //proměnná skore
 int random_var; //proměnná náhodné hodnoty
-int state; //proměnná pro rozhodování podmínky (CheckState)
 
 void reset(); //funkce pro prvotní spuštění a reset hry
 void readButtonInput(); //funkce pro čtení tlačítek
 void generateNewTreat(); //funkce pro generování jídla
 void moveTailByOne(); //funkce pro pohyb hada
-void CheckState(); //funkce pro kontrolu smrti hada
+void gameOver(); //funkce pro vykreslení 
