@@ -2,7 +2,7 @@
 
 ### Členové týmu
 
-* CHHHMarek IVAN
+* Marek IVAN
 * Petr KAPLAN
 * Miroslav TRCHALÍK
 * Dominik EIS
@@ -55,6 +55,10 @@ Joystick Shield je rozšiřující modul, se kterým lze změnít Arduino v hern
 
 ## Instructions
 K ovládání hry had, je zapotřebí 4 tlačítka a OLED displej. Jednotlivá tlačíkta slouží k ovládání směru a OLED k zobrazení hry.
+<br />
+Jelikož se nám nepodařilo zobrazit hru na arduinu v laboratořích, ale měli jsme možnost si vypůjčit jiné arduino, po pár úpravých jsme zobrazili výstup jak jsme jej zamýšleli.
+Zde je video prototypu našeho programu:
+<br />
 [odkaz na instruktážní video](https://www.youtube.com/watch?v=I2DEGI7EDAs)
 
 ## References
