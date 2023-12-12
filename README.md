@@ -54,7 +54,7 @@ Joystick Shield je rozšiřující modul, se kterým lze změnít Arduino v hern
 
 
 ## Instructions
-
+K ovládání hry had, je zapotřebí 4 tlačítka a OLED displej. Jednotlivá tlačíkta slouží k ovládání směru a OLED k zobrazení hry.
 [odkaz na instruktážní video](https://www.youtube.com/watch?v=I2DEGI7EDAs)
 
 ## References
