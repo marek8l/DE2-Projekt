@@ -15,7 +15,7 @@ Cílem naší práce bylo vytvořit zabávnou arkádovou hru Had. K tomu je zapo
 
 ## Hardware description
 ### Arduino Uno board
- Pro funkci, celého programu využíváme Arduino Uno board s ATmega328P microcontroler.
+ Pro funkci celého programu využíváme Arduino Uno board s ATmega328P microcontroler.
 ![alt text](uno.jpg)
 <br />
 Arduino Uno je mikrokontrolerová deska založená na čipu ATmega328P. Má 14 digitálních vstupně/výstupních pinů (z toho 6 lze použít jako výstupy s PWM), 6 analogových vstupů, 16 MHz keramický rezonátor (CSTCE16M0V53-R0), USB připojení, napájecí konektor, ICSP hlavičku a tlačítko pro reset. Obsahuje všechno potřebné pro podporu mikrokontrolerů; jednoduše lze připojit k počítači pomocí USB kabelu nebo napájet adaptérem AC-to-DC nebo baterií.
