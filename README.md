@@ -7,6 +7,7 @@
 * Miroslav TRCHALÍK
 * Dominik EIS
 
+
 ## Theoretical description
 ![alt text](celek.jpg)
 <br />
@@ -36,6 +37,7 @@ Joystick Shield je rozšiřující modul, se kterým lze změnít Arduino v hern
 ## Software description
 ### main.c flowchart:
 ![alt text](main_c.jpg)
+<br />
 [main.c soubor](https://github.com/marek8l/DE2/blob/main/projektsnake/src/main.c)
 ### Flowchart pro funkci readButtonInput:
 ![alt text](readButtonInput.jpg)
