@@ -29,7 +29,7 @@ Tento grafický OLED displej s rozlišením 128x64 je vhodný pro různé projek
 Joystick Shield je rozšiřující modul, se kterým lze změnít Arduino v herní konzoli. Tento vstupní modul umožňuje vytvořit z Arduino desky herní ovladač, který slouží pro různé aplikace, Arduino projekty, pohyb v menu a také k plynulému ovládání vašeho robota pomocí joysticku - (v osách X a Y).Tento Arduino Shield obsahuje mnoho vstupních prvků - tlačítka, analogový joystick, přepínač mezi napětím 3,3 a 5 V a několik konektorů pro připojení dalších zařízení. Na Shieldu se nacházejí 4 větší tlačítka, 2 menší tlačítka a poslední tlačítko se nachází v joysticku (aktivace při stisknutí joysticku). Součástí Arduino Shieldu jsou také konektory pro: displej Nokia 5110 a pro připojení bezdrátového modulu nRF24L01. Použití Shieldu je velmi jednoduché - stačí jen nasadit na Arduino UNO, MEGA 2560 nebo další Arduino desky.
 <br />
 ###Schéma zapojení
-![alt text](schema_desky.jpg)
+![alt text](schema_desky.png)
 
 
 
