@@ -38,7 +38,7 @@ Joystick Shield je rozšiřující modul, se kterým lze změnít Arduino v hern
 ### main.c flowchart:
 ![alt text](main_c.jpg)
 <br />
-[main.c soubor](https://github.com/marek8l/DE2-Projekt/blob/main/projektsnake/src/main.c)
+[main.c soubor](https://github.com/marek8l/DE2-Projekt/blob/main/projektsnakeV2/src/main.c)
 ### Flowchart pro funkci readButtonInput:
 ![alt text](readButtonInput.jpg)
 <br />
