@@ -55,8 +55,7 @@ Joystick Shield je rozšiřující modul, se kterým lze změnít Arduino v hern
 
 ## Instructions
 
-NAPSAT MANUÁL A UDĚLAT VIDEO
-Write an instruction manual for your application, including photos and a link to a short app video.
+![odkaz na instruktážní video](https://www.youtube.com/watch?v=I2DEGI7EDAs)
 
 ## References
 
